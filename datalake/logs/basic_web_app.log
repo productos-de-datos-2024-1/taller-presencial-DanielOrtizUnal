@@ -1,0 +1,27 @@
+2024-03-23 11:55:04,947:INFO:Starting the application
+2024-03-23 11:55:04,978:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:55:04,979:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:55:04,980:INFO: * Restarting with stat
+2024-03-23 11:55:05,947:INFO:Starting the application
+2024-03-23 11:55:05,953:WARNING: * Debugger is active!
+2024-03-23 11:55:05,957:INFO: * Debugger PIN: 100-675-346
+2024-03-23 11:56:08,703:INFO:127.0.0.1 - - [23/Mar/2024 11:56:08] "GET / HTTP/1.1" 200 -
+2024-03-23 11:56:08,825:INFO:127.0.0.1 - - [23/Mar/2024 11:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:56:23,394:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:26,713:INFO:Prediction: 155849.9
+2024-03-23 11:56:26,714:INFO:127.0.0.1 - - [23/Mar/2024 11:56:26] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:47,382:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 2}
+2024-03-23 11:56:47,384:INFO:Prediction: 212156.49
+2024-03-23 11:56:47,385:INFO:127.0.0.1 - - [23/Mar/2024 11:56:47] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:48,318:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:48,320:INFO:Prediction: 155849.9
+2024-03-23 11:56:48,321:INFO:127.0.0.1 - - [23/Mar/2024 11:56:48] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:49,006:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:49,008:INFO:Prediction: 155849.9
+2024-03-23 11:56:49,009:INFO:127.0.0.1 - - [23/Mar/2024 11:56:49] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:49,806:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:49,808:INFO:Prediction: 155849.9
+2024-03-23 11:56:49,809:INFO:127.0.0.1 - - [23/Mar/2024 11:56:49] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:21,926:INFO:Starting terminated
+2024-03-23 11:57:22,143:INFO:Starting terminated
