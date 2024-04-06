@@ -1,0 +1,45 @@
+2024-04-06 09:14:37,010:INFO:Starting the application
+2024-04-06 09:14:37,029:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:14:37,029:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:14:37,031:INFO: * Restarting with stat
+2024-04-06 09:14:37,597:INFO:Starting the application
+2024-04-06 09:14:37,605:WARNING: * Debugger is active!
+2024-04-06 09:14:37,608:INFO: * Debugger PIN: 100-675-346
+2024-04-06 09:16:56,080:INFO:Starting the application
+2024-04-06 09:16:56,149:INFO:Starting the application
+2024-04-06 09:18:27,236:INFO:Starting the application
+2024-04-06 09:18:27,252:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:18:27,252:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:27,254:INFO: * Restarting with stat
+2024-04-06 09:18:27,756:INFO:Starting the application
+2024-04-06 09:18:27,764:WARNING: * Debugger is active!
+2024-04-06 09:18:27,767:INFO: * Debugger PIN: 100-675-346
+2024-04-06 09:18:31,331:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:18:31,459:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-06 09:18:31,463:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-06 09:18:31,516:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-06 09:18:31,554:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:18:35,442:INFO:127.0.0.1 - - [06/Apr/2024 09:18:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:18:35,482:INFO:127.0.0.1 - - [06/Apr/2024 09:18:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:18:35,484:INFO:127.0.0.1 - - [06/Apr/2024 09:18:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:18:35,504:INFO:127.0.0.1 - - [06/Apr/2024 09:18:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:18:35,537:INFO:127.0.0.1 - - [06/Apr/2024 09:18:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:19:52,415:INFO:Starting the application
+2024-04-06 09:19:52,486:INFO:Starting the application
+2024-04-06 09:19:54,572:INFO:Starting the application
+2024-04-06 09:19:54,587:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:19:54,587:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:19:54,588:INFO: * Restarting with stat
+2024-04-06 09:19:55,099:INFO:Starting the application
+2024-04-06 09:19:55,106:WARNING: * Debugger is active!
+2024-04-06 09:19:55,110:INFO: * Debugger PIN: 100-675-346
+2024-04-06 09:19:58,194:INFO:127.0.0.1 - - [06/Apr/2024 09:19:58] "GET / HTTP/1.1" 200 -
+2024-04-06 09:19:58,272:INFO:127.0.0.1 - - [06/Apr/2024 09:19:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:20:07,405:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 2}
+2024-04-06 09:20:08,226:INFO:Prediction: 212156.49
+2024-04-06 09:20:08,227:INFO:127.0.0.1 - - [06/Apr/2024 09:20:08] "POST / HTTP/1.1" 200 -
+2024-04-06 09:36:47,565:INFO:Starting the application
+2024-04-06 09:36:47,636:INFO:Starting the application

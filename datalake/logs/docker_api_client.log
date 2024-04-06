@@ -1,0 +1,15 @@
+2024-04-06 16:35:17,522:INFO:Starting the application
+2024-04-06 16:35:17,531:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2024-04-06 16:35:17,531:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:35:17,532:INFO: * Restarting with stat
+2024-04-06 16:35:17,804:INFO:Starting the application
+2024-04-06 16:35:17,809:WARNING: * Debugger is active!
+2024-04-06 16:35:17,810:INFO: * Debugger PIN: 546-006-181
+2024-04-06 16:36:41,132:INFO:172.18.0.1 - - [06/Apr/2024 16:36:41] "GET / HTTP/1.1" 200 -
+2024-04-06 16:37:39,146:INFO:172.18.0.1 - - [06/Apr/2024 16:37:39] "GET / HTTP/1.1" 200 -
+2024-04-06 16:37:46,050:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:37:46,710:INFO:Prediction: 171805.74
+2024-04-06 16:37:46,712:INFO:172.18.0.1 - - [06/Apr/2024 16:37:46] "POST / HTTP/1.1" 200 -

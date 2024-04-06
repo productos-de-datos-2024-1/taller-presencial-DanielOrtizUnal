@@ -1,0 +1,44 @@
+2024-04-06 07:32:38,638:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:32:38,638:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:32:38,640:INFO: * Restarting with stat
+2024-04-06 07:32:39,566:WARNING: * Debugger is active!
+2024-04-06 07:32:39,569:INFO: * Debugger PIN: 100-675-346
+2024-04-06 07:53:00,787:INFO: * Detected change in 'C:\\Users\\danie\\Documents\\GitHub\\taller-presencial-DanielOrtizUnal\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:53:00,917:INFO: * Restarting with stat
+2024-04-06 07:53:01,974:WARNING: * Debugger is active!
+2024-04-06 07:53:01,977:INFO: * Debugger PIN: 100-675-346
+2024-04-06 07:53:07,283:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:53:07,284:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:53:07,286:INFO: * Restarting with stat
+2024-04-06 07:53:08,210:WARNING: * Debugger is active!
+2024-04-06 07:53:08,213:INFO: * Debugger PIN: 100-675-346
+2024-04-06 08:21:33,851:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:21:33,852:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:21:33,853:INFO: * Restarting with stat
+2024-04-06 08:21:34,774:WARNING: * Debugger is active!
+2024-04-06 08:21:34,778:INFO: * Debugger PIN: 100-675-346
+2024-04-06 08:23:44,793:INFO: * Detected change in 'C:\\Users\\danie\\Documents\\GitHub\\taller-presencial-DanielOrtizUnal\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:23:44,925:INFO: * Restarting with stat
+2024-04-06 08:23:45,986:WARNING: * Debugger is active!
+2024-04-06 08:23:45,989:INFO: * Debugger PIN: 100-675-346
+2024-04-06 08:25:22,762:INFO: * Detected change in 'C:\\Users\\danie\\Documents\\GitHub\\taller-presencial-DanielOrtizUnal\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:25:22,893:INFO: * Restarting with stat
+2024-04-06 08:25:23,946:WARNING: * Debugger is active!
+2024-04-06 08:25:23,949:INFO: * Debugger PIN: 100-675-346
+2024-04-06 08:25:29,008:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:25:33,002:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:25:33,002:INFO:127.0.0.1 - - [06/Apr/2024 08:25:33] "POST / HTTP/1.1" 200 -
+2024-04-06 09:16:28,906:INFO:127.0.0.1 - - [06/Apr/2024 09:16:28] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:16:29,071:INFO:127.0.0.1 - - [06/Apr/2024 09:16:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:18:23,168:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:18:23,168:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:23,170:INFO: * Restarting with stat
+2024-04-06 09:18:24,146:WARNING: * Debugger is active!
+2024-04-06 09:18:24,150:INFO: * Debugger PIN: 100-675-346
+2024-04-06 09:20:07,411:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:20:08,224:INFO:Prediction: [212156.49448758]
+2024-04-06 09:20:08,225:INFO:127.0.0.1 - - [06/Apr/2024 09:20:08] "POST / HTTP/1.1" 200 -
